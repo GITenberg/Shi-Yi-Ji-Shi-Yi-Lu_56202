@@ -1,0 +1,28 @@
+_repo: Shi-Yi-Ji-Shi-Yi-Lu_56202
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wang, Jia
+    gutenberg_agent_id: '48720'
+    url: http://www.gutenberg.org/2009/agents/48720
+  - agent_name: Qi, Zhi Ping
+    gutenberg_agent_id: '48722'
+    url: http://www.gutenberg.org/2009/agents/48722
+  - agent_name: Xiao, Qi
+    gutenberg_agent_id: '48721'
+    url: http://www.gutenberg.org/2009/agents/48721
+description: ''
+gutenberg_issued: '2017-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56202'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Shi Yi Ji
+
+  Shi Yi Lu'
+url: http://www.gutenberg.org/ebooks/56202
